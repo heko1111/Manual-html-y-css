@@ -66,6 +66,7 @@ p  {
 .main {
     padding-top: 144px;
     top: 64px;
+    position: absolute;
 }
 .indice1 {
     width: 100%;
