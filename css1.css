@@ -21,7 +21,7 @@ p  {
     background-color: cornflowerblue;
     color: #333;
     padding: 32px 0;
-   # float: fixed;
+    float: fixed;
     margin: 0;
 
     position: fixed;
@@ -64,9 +64,8 @@ p  {
     margin-top: 96px;
 }
 .main {
-    #padding-top: 144px;
-    top: 100px;
-    position: fixed;
+    padding-top: 144px;
+    
 }
 .indice1 {
     width: 100%;
