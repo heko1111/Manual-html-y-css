@@ -64,9 +64,9 @@ p  {
     margin-top: 96px;
 }
 .main {
-    padding-top: 144px;
-    top: 64px;
-    position: absolute;
+    #padding-top: 144px;
+    top: 100px;
+    position: fixed;
 }
 .indice1 {
     width: 100%;
