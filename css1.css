@@ -1,0 +1,82 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+    font-size: 19,2px;
+    line-height: 24px;
+    margin: 0;
+}
+h1 {
+    font-size: 32px;
+    line-height: 20.8px;
+}
+p  {
+    margin-bottom: 25.6px;
+}
+.container {
+    width: 95%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.header {
+    background-color: cornflowerblue;
+    color: #333;
+    padding: 32px 0;
+    float: fixed;
+    margin: 0;
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+.header a {
+    color: burlywood;
+    text-decoration: none;
+}
+.logo-navc {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    letter-spacing: 5px;
+    font-size: 24px;
+}
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.navigation ul li {
+    display: inline-block;
+}
+.navigation ul li a {
+    display: block;
+    padding: 8px 16px;
+}
+.navigation ul li a:hover {
+    background-color: whitesmoke;
+}
+.footer {
+    background-color: burlywood ;
+    padding: 24px 0;
+    text-align: center;
+    margin-top: 96px;
+}
+.main {
+    padding-top: 144px;
+    
+}
+.indice1 {
+    width: 100%;
+    max-width: 400px;
+    margin-left: 43%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+}
+.fotoformato {
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: block;
+}
